@@ -5,7 +5,7 @@ Signature: z2KYjQctiqbZp/FQ4XW7YZV0DC+tRKSuYJqdelVFZRy0AMtxJRCEzi/Bz8XxZy//EceLG
 
 ======================================================================================================================
 
-The file https://fractal-sovereignty.github.io/Fractal-Sovereignty.pdf was created by Citizen Doctor on July 1, 2023
+The file https://fractal-sovereignty.github.io/Fractal-Sovereignty.pdf was created by Citizen Doctor on July 3, 2023
 and signed by him using https://hash-and-sign.github.io -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
