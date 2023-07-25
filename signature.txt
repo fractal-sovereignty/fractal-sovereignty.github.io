@@ -1,19 +1,19 @@
-5fd6f04b19a1a458efb5400b88eaee1574da59f7
+OrpEh9+s9Ketirt9cKuDYl2GhbJZW2V8MeeyeDeJ1Ug=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: LVA8CykT55db1Qt1IGL1iszquyUZ74nCWMhiQLrCsgOrLcyPZ+qqHZlZWzIdBIQQNU3CDpGTF27vnjK9fcPbBQ==
+Signature: 7YSEDrf3fzufRoT6oUQo/YCJsw5ivwHEoKzCDUsr5ud9cyUpK8bM+ld2kcb0oGRgZbp20Y2pRVCn/+dwuyX1CA==
 
 ======================================================================================================================
 
-The file https://fractal-sovereignty.github.io/Fractal-Sovereignty.pdf was created by Citizen Doctor on July 21, 2023
+The file https://fractal-sovereignty.github.io/Fractal-Sovereignty.pdf was created by Citizen Doctor on July 25, 2023
 and signed by him using https://hash-and-sign.github.io -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
 
-1. Compute the SHA256 checksum of the PDF. The technique for doing so depends on your operating system. 
-   This guide may be useful: https://technastic.com/check-md5-checksum-hash
+1. Compute the SHA-256 checksum of the PDF by dragging and dropping the file into the lower box (Message to 
+   sign/verify) of https://hash-and-sign.github.io.
 
-2. Confirm that the SHA256 checksum matches the first line of this file.
+2. Confirm that the SHA-256 checksum matches the first line of this file.
 
 3. Copy and paste the first four lines of this file (above the double-line) into the lower box (Message to 
    sign/verify) of https://hash-and-sign.github.io -- It doesn't matter what is in the upper box (12 random words).
