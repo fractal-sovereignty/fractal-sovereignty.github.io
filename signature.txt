@@ -1,10 +1,10 @@
-hI4+jPf1GmKJwkrqIXgR5mDsJKi6G5CUBTS1L7lncY4=
+upnUai0EIXDVnLJdBRTqdOpAGuNAUZ22SmzCv5BkFqs=
 
 Public key: fA7Ih7xfHGqWub+fDJy0dX+y2O/dvTDmO4xmeF1Bylc=
-Signature: dWCjnWn5sWbvrFcZ88aBziY/UigQLAXkGa5IxuL2NrHjr57K/dBcNImXv6jgsVZllkg3oYEbCfqaWrFdoMYuBw==
+Signature: Gh4Q/jfzIfTi2DuKwfEnt9XiPp5xVEyLzsnVTIqKKerqHqs50RuXh2ODZY2ZyQ+BsOtcwlHt54eWC5WMMW/CDw==
 ======================================================================================================================
 
-The file https://fractal-sovereignty.github.io/Fractal-Sovereignty.pdf was created by Citizen Doctor on April 11, 2024
+The file https://fractal-sovereignty.github.io/Fractal-Sovereignty.pdf was created by Citizen Doctor on June 13, 2024
 and signed by him using https://hash-and-sign.github.io -- a web page he created from open source Ed25519 DSA software.
 
 To verify the signature:
